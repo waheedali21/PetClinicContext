@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Functional Test(failed)">
+    <classes>
+      <class name="com.petclinic.testcases.OwnersPageTestCases">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="do_FindOwnerByLastNameTest"/>
+        </methods>
+      </class> <!-- com.petclinic.testcases.OwnersPageTestCases -->
+      <class name="com.petclinic.testcases.PetsPageTestCases">
+        <methods>
+          <include name="setUp"/>
+          <include name="do_CreateNewVistForExistingOwnerTest"/>
+          <include name="do_AddNewPetForExistingOwnerTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.petclinic.testcases.PetsPageTestCases -->
+    </classes>
+  </test> <!-- Functional Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

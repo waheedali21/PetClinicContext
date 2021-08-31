@@ -1,0 +1,72 @@
+2021-08-23 15:11:56,900  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:11:56,903  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:11:56,904  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:11:57,620  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:11:57,620  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:11:57,621  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:11:57,671  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:11:57,671  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:11:57,672  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:11:57,711  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:11:57,711  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:11:57,712  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:11:57,828  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:12:00,571  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:12:00,621  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:12:01,279  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:12:01,281  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:12:01,282  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:12:01,454  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:12:02,976  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:12:02,994  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:12:03,545  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:12:03,546  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:12:03,546  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:12:04,585  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:12:06,164  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:12:06,268  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:12:06,837  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:12:06,838  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:12:06,838  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:12:07,815  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:12:09,397  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:12:09,444  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:12:10,180  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:12:10,180  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:12:10,180  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:12:16,065  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:12:17,618  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:12:17,668  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:12:18,245  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:12:18,246  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:12:18,246  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:12:19,390  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:12:20,971  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:12:21,182  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:12:21,792  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:12:21,792  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:12:21,793  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:12:23,959  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:12:25,470  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:12:25,495  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:12:26,163  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:12:26,163  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:12:26,164  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:12:57,203  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:12:58,984  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:12:59,029  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:12:59,585  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:12:59,586  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:12:59,586  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:13:02,330  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:13:03,957  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:13:04,005  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:13:04,524  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:13:04,524  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:13:04,525  INFO [main] BaseClass:47 - FileInputStream got loaded
+2021-08-23 15:13:35,620  INFO [main] BaseClass:58 - Broswer name fetched from property file
+2021-08-23 15:13:37,185  INFO [main] BaseClass:73 - Chrome launched
+2021-08-23 15:13:37,200  INFO [main] BaseClass:76 - Coookies got got deleted
+2021-08-23 15:13:37,699  INFO [main] BaseClass:42 - Properties file object got create
+2021-08-23 15:13:37,699  INFO [main] BaseClass:45 - FileInputStream path is setup
+2021-08-23 15:13:37,700  INFO [main] BaseClass:47 - FileInputStream got loaded

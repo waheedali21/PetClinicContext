@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<test name="Functional Test">
+		<classes>
+			<class name="com.petclinic.testcases.HomePageTestCases" />
+			<class name="com.petclinic.testcases.OwnersPageTestCases" />
+			<class name="com.petclinic.testcases.VeterinariansPageTestCases" />
+			<class name="com.petclinic.testcases.PetsPageTestCases" />
+
+			<!-- <class name="com.petclinic.base.BaseClass" />  -->
+
+		</classes>
+	</test> <!-- Functional Test -->
+</suite> <!-- Suite -->
